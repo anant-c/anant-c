@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/anant_strong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anant_strong" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anant-chaudhary-03b2ab202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant chaudhary" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anant_infinite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anant_infinite" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/an_ant18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anant_infinite" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/striver_anant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="striver_anant" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anant1947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anant1947" height="30" width="40" /></a>
 </p>
