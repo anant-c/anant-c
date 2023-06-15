@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anant-strong&show_icons=true&locale=en" alt="anant-strong" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anant-strong&" alt="anant-strong" /></p>
-[![An image of @anant18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anant18)](https://holopin.io/@anant18)
+![image](https://github.com/anant-strong/anant-strong/assets/95924468/be1cec30-1941-4d51-86ec-a120183a8924)
 
