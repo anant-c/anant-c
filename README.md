@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/stoicanant" target="blank"><img src="https://img.shields.io/twitter/follow/anant_strong?logo=twitter&style=for-the-badge" alt="anant_strong" /></a> </p>
 
-- 🔭 I’m currently practising questions on **Data Structures & Algorithms on online platforms.**
+- 🔭 I’m practicing questions on **Data Structures & Algorithms on online platforms.**
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **Web Development and Machine Learning.**
 
 - 📫 How to reach me **canant448@gmail.com**
 
